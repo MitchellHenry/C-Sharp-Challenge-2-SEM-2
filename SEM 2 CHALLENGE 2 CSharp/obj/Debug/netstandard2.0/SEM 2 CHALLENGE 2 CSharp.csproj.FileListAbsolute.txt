@@ -1,0 +1,8 @@
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\SEM 2 CHALLENGE 2 CSharp\bin\Debug\netstandard2.0\SEM 2 CHALLENGE 2 CSharp.deps.json
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\SEM 2 CHALLENGE 2 CSharp\bin\Debug\netstandard2.0\SEM 2 CHALLENGE 2 CSharp.dll
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\SEM 2 CHALLENGE 2 CSharp\bin\Debug\netstandard2.0\SEM 2 CHALLENGE 2 CSharp.pdb
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\SEM 2 CHALLENGE 2 CSharp\obj\Debug\netstandard2.0\SEM 2 CHALLENGE 2 CSharp.csprojAssemblyReference.cache
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\SEM 2 CHALLENGE 2 CSharp\obj\Debug\netstandard2.0\SEM 2 CHALLENGE 2 CSharp.AssemblyInfoInputs.cache
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\SEM 2 CHALLENGE 2 CSharp\obj\Debug\netstandard2.0\SEM 2 CHALLENGE 2 CSharp.AssemblyInfo.cs
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\SEM 2 CHALLENGE 2 CSharp\obj\Debug\netstandard2.0\SEM 2 CHALLENGE 2 CSharp.dll
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\SEM 2 CHALLENGE 2 CSharp\obj\Debug\netstandard2.0\SEM 2 CHALLENGE 2 CSharp.pdb

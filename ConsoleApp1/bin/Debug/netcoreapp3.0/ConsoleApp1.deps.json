@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ConsoleApp1/1.0.0": {
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "SEM 2 CHALLENGE 2 CSharp/1.0.0": {
+        "runtime": {
+          "SEM 2 CHALLENGE 2 CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEM 2 CHALLENGE 2 CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

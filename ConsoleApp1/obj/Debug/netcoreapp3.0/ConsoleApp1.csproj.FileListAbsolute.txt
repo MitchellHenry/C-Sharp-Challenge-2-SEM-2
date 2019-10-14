@@ -1,0 +1,14 @@
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\bin\Debug\netcoreapp3.0\SEM 2 CHALLENGE 2 CSharp.dll
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\bin\Debug\netcoreapp3.0\SEM 2 CHALLENGE 2 CSharp.pdb
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\Mitchell\source\repos\SEM 2 CHALLENGE 2 CSharp\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
